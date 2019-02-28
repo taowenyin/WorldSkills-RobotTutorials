@@ -120,6 +120,7 @@ AddOutputFilter chunkFilter
 			<Item Name="6.Move.vi" Type="VI" URL="../Code/6.Move.vi"/>
 			<Item Name="7.Gyrop.vi" Type="VI" URL="../Code/7.Gyrop.vi"/>
 			<Item Name="8.LineMove.vi" Type="VI" URL="../Code/8.LineMove.vi"/>
+			<Item Name="test.vi" Type="VI" URL="../Code/test.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -306,6 +307,7 @@ AddOutputFilter chunkFilter
 			<Item Name="rioembeddedcanlvapi.dll" Type="Document" URL="rioembeddedcanlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="未命名 1.vi" Type="VI" URL="../Code/未命名 1.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
