@@ -31,7 +31,7 @@
 	</Item>
 	<Item Name="myRIO-1900" Type="RT myRIO">
 		<Property Name="alias.name" Type="Str">myRIO-1900</Property>
-		<Property Name="alias.value" Type="Str">172.22.11.2</Property>
+		<Property Name="alias.value" Type="Str">172.16.0.1</Property>
 		<Property Name="CCSymbols" Type="Str">OS,Linux;CPU,ARM;DeviceCode,762F;TARGET_TYPE,RT;FPGAPersonality,myRIO_FP_Default;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">762F</Property>
 		<Property Name="crio.family" Type="Str">ARMLinux</Property>
@@ -120,6 +120,7 @@ AddOutputFilter chunkFilter
 			<Item Name="6.Move.vi" Type="VI" URL="../Code/6.Move.vi"/>
 			<Item Name="7.Gyrop.vi" Type="VI" URL="../Code/7.Gyrop.vi"/>
 			<Item Name="8.LineMove.vi" Type="VI" URL="../Code/8.LineMove.vi"/>
+			<Item Name="9.GyropMove.vi" Type="VI" URL="../Code/9.GyropMove.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
