@@ -121,6 +121,7 @@ AddOutputFilter chunkFilter
 			<Item Name="7.Gyrop.vi" Type="VI" URL="../Code/7.Gyrop.vi"/>
 			<Item Name="8.LineMove.vi" Type="VI" URL="../Code/8.LineMove.vi"/>
 			<Item Name="9.GyropMove.vi" Type="VI" URL="../Code/9.GyropMove.vi"/>
+			<Item Name="10.RectangleMove.vi" Type="VI" URL="../Code/10.RectangleMove.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
