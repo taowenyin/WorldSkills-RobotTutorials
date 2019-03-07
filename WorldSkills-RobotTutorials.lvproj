@@ -124,6 +124,7 @@ AddOutputFilter chunkFilter
 			<Item Name="10.RectangleMove.vi" Type="VI" URL="../Code/10.RectangleMove.vi"/>
 			<Item Name="11.RoboticArm.vi" Type="VI" URL="../Code/11.RoboticArm.vi"/>
 			<Item Name="12.Head.vi" Type="VI" URL="../Code/12.Head.vi"/>
+			<Item Name="13.Arm.vi" Type="VI" URL="../Code/13.Arm.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
