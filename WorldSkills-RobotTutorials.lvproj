@@ -24,7 +24,7 @@
 			<Item Name="16.Camera.vi" Type="VI" URL="../Code/16.Camera.vi"/>
 			<Item Name="17.ShapeRecognition.vi" Type="VI" URL="../Code/17.ShapeRecognition/17.ShapeRecognition.vi"/>
 			<Item Name="18.OCR.vi" Type="VI" URL="../Code/18.OCR/18.OCR.vi"/>
-			<Item Name="19.OCR.vi" Type="VI" URL="../Code/18.OCR/19.OCR.vi"/>
+			<Item Name="19.MeasureDistance.vi" Type="VI" URL="../Code/19.MeasureDistance/19.MeasureDistance.vi"/>
 		</Item>
 		<Item Name="Project Documentation" Type="Folder">
 			<Item Name="Documentation Images" Type="Folder">
